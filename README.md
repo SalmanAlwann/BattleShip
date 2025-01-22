@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icons/c.PNG" alt="Battleship Game" width="1000px"></a>
+  <img src="icons/c.png" alt="Battleship Game" width="1000px"></a>
   <br>
 </h1>
 
