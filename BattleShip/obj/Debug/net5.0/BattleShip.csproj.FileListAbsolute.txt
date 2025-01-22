@@ -1,0 +1,54 @@
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.exe
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.deps.json
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.json
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.dev.json
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.dll
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.pdb
+D:/School/BattleShipProject/BattleShip/BattleShip/bin/Debug/net5.0/Pastel.dll
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.AssemblyReference.cache
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfoInputs.cache
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfo.cs
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.CoreCompileInputs.cache
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.CopyComplete
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.dll
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/refint/BattleShip.dll
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.pdb
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.genruntimeconfig.cache
+D:/School/BattleShipProject/BattleShip/BattleShip/obj/Debug/net5.0/ref/BattleShip.dll
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.exe
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.deps.json
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.json
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.dev.json
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.dll
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.pdb
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/bin/Debug/net5.0/Pastel.dll
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.AssemblyReference.cache
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfoInputs.cache
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfo.cs
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.CoreCompileInputs.cache
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.CopyComplete
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.dll
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/refint/BattleShip.dll
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.pdb
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.genruntimeconfig.cache
+D:/School/BattleShipProject - Copy/BattleShip/BattleShip/obj/Debug/net5.0/ref/BattleShip.dll
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.deps.json
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.json
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.runtimeconfig.dev.json
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.dll
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/BattleShip.pdb
+/Users/salman/Desktop/BattleShip/BattleShip/bin/Debug/net5.0/Pastel.dll
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.AssemblyReference.cache
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfoInputs.cache
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.AssemblyInfo.cs
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.CoreCompileInputs.cache
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.csproj.Up2Date
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.dll
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/refint/BattleShip.dll
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.pdb
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/BattleShip.genruntimeconfig.cache
+/Users/salman/Desktop/BattleShip/BattleShip/obj/Debug/net5.0/ref/BattleShip.dll
