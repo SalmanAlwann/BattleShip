@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="v.jpeg" alt="Battleship Game" width="300px">
+  <img src="v.jpeg" alt="Battleship Game" width="450px">
   <br>
 </h1>
 
