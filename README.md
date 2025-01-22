@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icons/c.png" alt="Battleship Game" width="1000px"></a>
+  <img src="v.jpeg" alt="Battleship Game" width="1000px"></a>
   <br>
 </h1>
 
@@ -16,7 +16,7 @@
 ---
 
 <h2>Overview</h2>
-<img src="icons/main.JPG" alt="Game Interface" width="700px">
+<img src="c.png" alt="Game Interface" width="700px">
 
 <h2>Description</h2>
 
