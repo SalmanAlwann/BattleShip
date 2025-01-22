@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="v.jpeg" alt="Battleship Game" width="1000px"></a>
+  <img src="v.jpeg" alt="Battleship Game" width="1000px">
   <br>
 </h1>
 
@@ -10,50 +10,91 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
+  <a href="#gameplay-mechanics">Gameplay Mechanics</a> •
   <a href="#license">License</a>
 </p>
 
 ---
 
-<h2>Overview</h2>
+## Overview
+
 <img src="c.png" alt="Game Interface" width="700px">
 
-<h2>Description</h2>
+## Description
 
-<p>The Battleship Game in C# is a modern reimagining of the classic naval strategy game. This command-line version brings players into the age-old battle of wits where the objective is to sink your opponent's fleet before yours is decimated. Each player takes turns guessing the locations of the opponent's ships on a hidden grid, aiming to eliminate all vessels. This project implements robust gameplay mechanics and an easy-to-navigate user interface, making it an engaging challenge for players of all ages.</p>
+The Battleship Game in C# is a command-line implementation of the classic naval strategy game. The program randomly places a set of ships on a 10x10 grid and challenges the player to guess the locations of these hidden ships. As the game progresses, user input is taken to mark hits and misses, and the game tracks statistics such as the number of guesses, hits, misses, and even calculates a rank (e.g., professional, expert, or noob) based on performance.
 
-<h2>Installation</h2>
+The main components of the script include:
 
-<ol>
-  <li>Clone the repository:
-  <pre><code>git clone https://github.com/SalmanAlwann/BattleshipGame.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-  <pre><code>cd BattleshipGame</code></pre>
-  </li>
-</ol>
+- **Game Setup & Random Ship Placement:**  
+  The game uses C#'s `Random` class to generate random positions and directions for ship placement, ensuring that ships do not touch by checking surrounding grid cells before placement.
 
-<h2>Usage</h2>
+- **User Interface & Input Handling:**  
+  The command-line interface leverages the [Pastel](https://github.com/sanathp/Pastel) module for colorized text output. It accepts user coordinates (X and Y) for each guess, updates the board in real time, and handles errors like invalid inputs gracefully.
 
-<p>To launch the Battleship game from the command line, execute the following commands:</p>
+- **Gameplay Logic & Statistics:**  
+  The program tracks various game statistics—such as total guesses, consecutive hits, and overall performance rank. The game rules enforce challenges like ending the game after eight consecutive misses, adding to the difficulty and replay value.
 
-<pre><code>cd BattleshipGame
-dotnet run</code></pre>
+- **DLL Imports for Console Management:**  
+  The code includes Windows DLL imports (from `kernel32.dll` and `user32.dll`) to control the console window size, such as maximizing it automatically for an enhanced user experience.
 
-<p>You will be prompted to set up your game board by placing ships. Follow the instructions on the screen to compete against another player.</p>
+## Installation
 
-<h2>Features</h2>
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/SalmanAlwann/BattleShip.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd BattleShip
+   ```
 
-<ul>
-  <li><strong>Two-Player Mode:</strong> Engage in a head-to-head battle with another human player, taking turns to strategically bomb each other's naval fleets.</li>
-  <li><strong>Random Ship Placement:</strong> Start your game faster with an option to automatically place your ships at random positions on the board.</li>
-  <li><strong>Real-Time Feedback:</strong> Each move provides immediate feedback to inform players if they hit or missed, and updates the game board accordingly.</li>
-  <li><strong>Simple and Intuitive CLI:</strong> Designed to be easy for anyone to start playing with minimal setup.</li>
-  <li><strong>Customizable Grid Size:</strong> Tailor the game's difficulty and length by choosing different grid sizes before starting a match.</li>
-</ul>
+## Usage
 
-<h2>License</h2>
+To launch the Battleship game from the command line, follow these steps:
 
-<p>This project is open source and available under the <a href="LICENSE">MIT License</a>.</p>
+1. Open your terminal and change to the project directory.
+2. Run the game using the .NET CLI:
+   ```bash
+   dotnet run
+   ```
+3. Follow the on-screen prompts to play the game. You will be asked to input the X and Y coordinates for each shot, and the game board will update to show hits and misses in real time.
+
+## Features
+
+- **Random Ship Placement:**  
+  Ships are automatically positioned on a 10x10 grid in random locations and orientations without overlapping.
+
+- **Real-Time Feedback:**  
+  After each guess, the game instantly updates the grid to show a hit (with unique markers per ship type) or a miss, while updating the player's statistics.
+
+- **Performance Ranking:**  
+  Based on the player's performance (e.g., consecutive hits and total hits), the game assigns a performance rank such as "professional," "expert," or "noob" at the end of the match.
+
+- **Enhanced Command-Line UI:**  
+  Colorized output via the Pastel library enhances readability and overall visual appeal.
+
+- **Robust Input Handling:**  
+  The game accepts valid board coordinates (0–9) only and manages incorrect input gracefully, ensuring smooth gameplay.
+
+## Gameplay Mechanics
+
+- **Grid & Ships:**  
+  The grid is a 10x10 matrix, and ships of varying lengths (e.g., 2, 3, 4, and 5 units) are placed randomly. Each ship type is indicated by a unique marker on the board.
+
+- **Taking Turns:**  
+  Players input X and Y coordinates to fire at their chosen spots. A hit updates the board immediately, and the game tracks whether hits are consecutive or sporadic.
+
+- **Game Over Conditions:**  
+  The game ends either when the player sinks all ships or when eight consecutive incorrect guesses are made. Final statistics and a performance ranking are then displayed.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
+**Sources:**
+- [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
+- [Pastel on GitHub](https://github.com/sanathp/Pastel)
+- [GitHub Docs](https://docs.github.com/en)
